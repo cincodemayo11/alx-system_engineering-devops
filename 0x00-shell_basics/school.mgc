@@ -1,2 +1,3 @@
 #!/bin/bash
-file -c 0 string SCHOOL School data !:mime School
+file -c 0 string SCHOOL School data
+!:mime School
